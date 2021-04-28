@@ -1,0 +1,13 @@
+C:\Users\GREAT\Desktop\C# Classes\Classes & Methods\bin\Debug\netcoreapp3.1\Classes & Methods.exe
+C:\Users\GREAT\Desktop\C# Classes\Classes & Methods\bin\Debug\netcoreapp3.1\Classes & Methods.deps.json
+C:\Users\GREAT\Desktop\C# Classes\Classes & Methods\bin\Debug\netcoreapp3.1\Classes & Methods.runtimeconfig.json
+C:\Users\GREAT\Desktop\C# Classes\Classes & Methods\bin\Debug\netcoreapp3.1\Classes & Methods.runtimeconfig.dev.json
+C:\Users\GREAT\Desktop\C# Classes\Classes & Methods\bin\Debug\netcoreapp3.1\Classes & Methods.dll
+C:\Users\GREAT\Desktop\C# Classes\Classes & Methods\bin\Debug\netcoreapp3.1\Classes & Methods.pdb
+C:\Users\GREAT\Desktop\C# Classes\Classes & Methods\obj\Debug\netcoreapp3.1\Classes & Methods.csprojAssemblyReference.cache
+C:\Users\GREAT\Desktop\C# Classes\Classes & Methods\obj\Debug\netcoreapp3.1\Classes & Methods.AssemblyInfoInputs.cache
+C:\Users\GREAT\Desktop\C# Classes\Classes & Methods\obj\Debug\netcoreapp3.1\Classes & Methods.AssemblyInfo.cs
+C:\Users\GREAT\Desktop\C# Classes\Classes & Methods\obj\Debug\netcoreapp3.1\Classes & Methods.csproj.CoreCompileInputs.cache
+C:\Users\GREAT\Desktop\C# Classes\Classes & Methods\obj\Debug\netcoreapp3.1\Classes & Methods.dll
+C:\Users\GREAT\Desktop\C# Classes\Classes & Methods\obj\Debug\netcoreapp3.1\Classes & Methods.pdb
+C:\Users\GREAT\Desktop\C# Classes\Classes & Methods\obj\Debug\netcoreapp3.1\Classes & Methods.genruntimeconfig.cache
